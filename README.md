@@ -8,3 +8,6 @@ Bu repo, Python yazılım dilinde bulunan .format methodunun üç farklı yönte
 
 # Standart Girdi Alma Fonksiyonu
 <a href="https://github.com/lenoresdead/.format-ve-standart-girdi-alma-fonksiyonu/blob/b2f13e87fa5fd6b2cf61a5a6ee2ce977fbcfefa2/standart%20girdi%20alma%20fonksiyonu.md">tıklayınız</a>
+
+# Standart Girdi Alma Fonksiyonu pthon dosyası
+<a href="https://github.com/lenoresdead/.format-ve-standart-girdi-alma-fonksiyonu/blob/7d7d7eca24585906a1c789e10b727c25979975b2/standartgirdialmafonksiyonu.py">tıklayınız</a>
